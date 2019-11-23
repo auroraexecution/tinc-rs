@@ -1,5 +1,5 @@
 [package]
-name = "tincrs"
+name = "tinc-rs"
 version = "0.1.0"
 authors = ["A.E. <auroraexecution@gmail.com>"]
 edition = "2018"
